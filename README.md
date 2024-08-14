@@ -1,1 +1,1 @@
-#A go module to check how go modules are published and imported
+# A go module to check how go modules are published and imported
