@@ -1,8 +1,8 @@
 package main
 
 import (
-	"algolib/algorithms"
 	"fmt"
+	"github.com/adibur6/algolib/algorithms"
 )
 
 func main() {
